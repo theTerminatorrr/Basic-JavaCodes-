@@ -15,6 +15,5 @@ public class DoWhileLoop
             ++x;
         }
         while(x <= n);
-
     }
 }
