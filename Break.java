@@ -22,6 +22,6 @@ public class Break
             ++counter;
             System.out.println("Wrong Password!!! Tried " + counter + " Times...");
         }
-
     }
 }
+
